@@ -72,7 +72,7 @@ function reset() {
       squares[i].style.display = "none";
     }
   }
-  h1.style.backgroundColor = "hotpink";
+  h1.style.backgroundColor = "steelblue";
 }
 
 resetButton.addEventListener("click", function() {
